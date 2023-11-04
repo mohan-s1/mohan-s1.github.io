@@ -1,7 +1,7 @@
 ---
 title: "Mixing Linear Polymers with Rings and Catenanes: Bulk and Interfacial Behavior"
 collection: publications
-permalink: [Link to ACS Page Here](https://pubs.acs.org/doi/full/10.1021/acs.macromol.3c01267)
+permalink: 
 excerpt: 'We derive and parameterize effective interaction
 potentials between a multitude of different types of ring polymers
 and linear chains, varying the bending rigidity and solvent quality
