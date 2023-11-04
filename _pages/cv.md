@@ -69,7 +69,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 5 different slack teams
 * Blueprint Leadership Club, University of Virginia
   * Identified and outlined problems surrounding a lack of academic and interpersonal support at UVA
   * Worked in a group to develop and implement infrastructure for a peer-to-peer advising network
