@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate Teaching Assistant (CHEM 2410)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2022-summer-teaching-1
+venue: "University of Virginia, Department of Chemistry"
+location: "Charlottesville, Virginia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Aided in real-time instruction by prompting discussion and guiding thinking
+* Graded portions of each exam and final (4 total) for a class size of $\sim 30$ students
+* Created and presented review materials outside of class to $\sim 15$ students before each exam
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
