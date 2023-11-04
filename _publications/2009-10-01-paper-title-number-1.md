@@ -7,6 +7,6 @@ venue: 'Journal 1'
 ---
 I didn't write this thesis. Instead, it was the work of a collaborator which I know base one of my two main projects off of. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://mohan-s1.github.io/files/Alec-Calculation_of_Quantum_Mechanical_Effusion_Rates.pdf)
 
 Recommended citation: Sigurðarson, A.E. (2021). "Calculation of the Quantum Mechanical Effusion Rate out of a 2D Box." 
