@@ -5,7 +5,7 @@ excerpt: 'The purpose of this study is to calculate rate constants for effusion 
 date: 2021-05-01
 venue: 'University of Iceland'
 ---
-I didn't write this thesis. Instead, it was the work of a collaborator which I know base one of my two main projects off of. 
+I didn't write this thesis. Instead, it was the work of a collaborator which I now base one of my two main projects off of. 
 
 [Download paper here](http://mohan-s1.github.io/files/Alec-Calculation_of_Quantum_Mechanical_Effusion_Rates.pdf)
 
