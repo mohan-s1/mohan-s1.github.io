@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 2"
+title: "Mixing Linear Polymers with Rings and Catenanes: Bulk and Interfacial Behavior"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+permalink: [Link to ACS Page Here](https://pubs.acs.org/doi/full/10.1021/acs.macromol.3c01267)
+excerpt: 'We derive and parameterize effective interaction
+potentials between a multitude of different types of ring polymers
+and linear chains, varying the bending rigidity and solvent quality
+for the former species.'
+date: 2023-10-03
+venue: 'ACS Macromolecules'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Roman Staňo, Christos N. Likos, and Sergei A. Egorov
+<i>Macromolecules</i> **2023** <i>56</i> (20), 8168-8182
+DOI: 10.1021/acs.macromol.3c01267'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Once again, I didn't write this paper. It was written by my PI, Dr. Sergei Egorov, and two of our collaborators, Dr. Christos Likos and 
+Roman Staňo. This work serves as a fairly representative example of the work I do that's rooted in statistical mechanics and the field of Soft Matter.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://mohan-s1.github.io/files/mixing-linear-polymers.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Roman Staňo, Christos N. Likos, and Sergei A. Egorov
+<i>Macromolecules</i> **2023** <i>56</i> (20), 8168-8182
+DOI: 10.1021/acs.macromol.3c01267.
