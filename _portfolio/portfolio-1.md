@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Ising Model"
+excerpt: "Test<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+For CHEM 5220, Advanced Physical Chemistry II: Statistical Mechanics, we were tasked with making an Ising Model for the class. There were three total iterations, each with increasing complexity. The GitHub repository with the code and respective assignment is attached below:
+
+[GitHub Repo Here](https://github.com/mohan-s1/ising_model)
