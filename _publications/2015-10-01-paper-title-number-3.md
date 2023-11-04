@@ -12,3 +12,5 @@ paperurl: 'http://mohan-s1.github.io/files/likos_overduin_binarymix_epl.pdf'
 [Download paper here](http://mohan-s1.github.io/files/likos_overduin_binarymix_epl.pdf)
 
 Recommended citation: S. D. Overduin and C. N. Likos 2009 *EPL* **85** 26003.
+
+An associated paper that shows this potential at work for cluster crystals can be found here: [Self-Assembling Cluster Crystals](https://www.nature.com/articles/s41467-021-27412-3)
