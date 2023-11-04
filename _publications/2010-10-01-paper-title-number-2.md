@@ -8,7 +8,7 @@ and linear chains, varying the bending rigidity and solvent quality
 for the former species.'
 date: 2023-10-03
 venue: 'ACS Macromolecules'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://pubs.acs.org/doi/full/10.1021/acs.macromol.3c01267'
 citation: 'Roman Staňo, Christos N. Likos, and Sergei A. Egorov
 <i>Macromolecules</i> **2023** <i>56</i> (20), 8168-8182
 DOI: 10.1021/acs.macromol.3c01267'
