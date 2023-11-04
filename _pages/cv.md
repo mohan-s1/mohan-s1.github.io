@@ -16,7 +16,7 @@ Education
 Work experience
 ======
 * Fall 2023: Physical Chemistry I: Quantum Mechanics TA
-  * University of Virgini
+  * University of Virginia
   * Duties included:
     * Words
   * Supervisor: Dr. Sergei Egorov
