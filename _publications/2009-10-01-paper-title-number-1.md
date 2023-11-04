@@ -1,9 +1,9 @@
 ---
 title: "Calculation of the Quantum Mechanical Effusion Rate out of a 2D Box"
 collection: publications
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The purpose of this study is to calculate rate constants for effusion of a particle described by quantum mechanics. The results from this study will hopefully be able to be used to compare different formulations of quantum transition state theories.'
 date: 2021-05-01
-venue: 'Journal 1'
+venue: 'University of Iceland'
 ---
 I didn't write this thesis. Instead, it was the work of a collaborator which I know base one of my two main projects off of. 
 
