@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry, University of Virginia, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: Physical Chemistry I: Quantum Mechanics TA
+  * University of Virgini
+  * Duties included:
+    * Words
+  * Supervisor: Dr. Sergei Egorov
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023 - Present: Undergraduate Researcher 
+  * University of Virginia, Egorov Group
+  * Duties included:
+    * Words
+    * More 
+  * Supervisor: Dr. Sergei Egorov
+
+* Summer 2022: Organic Chemistry TA
+  * University of Virginia
+  * Duties included: 
+    * Aiding in real-time instruction by prompting discussion and guiding thinking
+    * Graded portions of each exam and final (4 total) for a class size of $\sim 30$ students
+    * Creating and presenting review materials outside of class to $\sim 15$ students before each exam
+  * Supervisor: Dr. Alicia Frantz
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python (Intermediate)
+  * MATLAB (Intermediate)
+  * C ++ (Beginner)   
+* Software Proficiency 
+  * Microsoft Office Suite (Advanced)
+  * LaTeX (Advanced)
+  * ChemDraw (Intermediate)
+* Languages 
+  * Spanish (Intermediate)   
 
 Publications
 ======
