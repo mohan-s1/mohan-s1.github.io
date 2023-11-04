@@ -1,6 +1,6 @@
 ---
 title: "Ising Model"
-excerpt: "Test<br/><img src='/images/500x300.png'>"
+excerpt: "Construction of an Ising Model<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
