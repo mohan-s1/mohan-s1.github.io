@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Phase behaviour in binary mixtures of ultrasoft repulsive particles"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2009-01-09-paper-title-number-3
+excerpt: 'We investigate the phase behaviour of binary mixtures consisting of two ultrasoft species labeled 1 and 2, using the liquid-state theory and the classical density functional theory.'
+date: 2009-01-29
+venue: 'EPL'
+paperurl: 'http://mohan-s1.github.io/files/likos_overduin_binarymix_epl.pdf'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://mohan-s1.github.io/files/likos_overduin_binarymix_epl.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: S. D. Overduin and C. N. Likos 2009 *EPL* **85** 26003.
