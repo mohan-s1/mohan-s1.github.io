@@ -10,7 +10,7 @@ date: 2023-10-03
 venue: 'ACS Macromolecules'
 paperurl: 'https://pubs.acs.org/doi/full/10.1021/acs.macromol.3c01267'
 citation: Roman Staňo, Christos N. Likos, and Sergei A. Egorov
-<i>Macromolecules</i> <b>2023</b> <i>56</i> (20), 8168-8182
+<i>Macromolecules</i> 2023 <i>56</i> (20), 8168-8182
 DOI: 10.1021/acs.macromol.3c01267.
 DOI: 10.1021/acs.macromol.3c01267'
 ---
