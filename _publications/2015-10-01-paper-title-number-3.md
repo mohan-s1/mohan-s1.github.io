@@ -7,7 +7,7 @@ date: 2009-01-29
 venue: 'EPL'
 paperurl: 'http://mohan-s1.github.io/files/likos_overduin_binarymix_epl.pdf'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+ Like all the others, this is not my own work. Instead, this is the paper that I base my current soft matter work on. The GEM-n potential is really fascinating due to it being solely contingent on repulsive interactions.
 
 [Download paper here](http://mohan-s1.github.io/files/likos_overduin_binarymix_epl.pdf)
 
