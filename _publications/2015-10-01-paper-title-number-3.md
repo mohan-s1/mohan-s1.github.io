@@ -9,7 +9,7 @@ paperurl: 'http://mohan-s1.github.io/files/likos_overduin_binarymix_epl.pdf'
 ---
  Like all the others, this is not my own work. Instead, this is the paper that I base my current soft matter work on. The GEM-n potential is really fascinating due to it being solely contingent on repulsive interactions.
 
-[Download paper here](http://mohan-s1.github.io/files/likos_overduin_binarymix_epl.pdf)
+[Download the paper here](http://mohan-s1.github.io/files/likos_overduin_binarymix_epl.pdf)
 
 Recommended citation: S. D. Overduin and C. N. Likos 2009 *EPL* **85** 26003.
 
