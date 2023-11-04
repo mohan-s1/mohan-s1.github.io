@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohan Shankar / Site Title"
+title                    : "Mohan Shankar"
 title_separator          : "-"
 name                     : &name "Mohan Shankar"
 description              : &description "personal description"
