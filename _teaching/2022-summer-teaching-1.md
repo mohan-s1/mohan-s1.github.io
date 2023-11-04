@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Teaching Assistant (CHEM 2410)"
 collection: teaching
-type: "Undergraduate course"
+type: "Organic Chemistry"
 permalink: /teaching/2022-summer-teaching-1
 venue: "University of Virginia, Department of Chemistry"
 location: "Charlottesville, Virginia"
