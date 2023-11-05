@@ -9,5 +9,5 @@ location: "Charlottesville, Virginia"
 # Organic Chemistry Lecture TA
 * Aided in real-time instruction by prompting discussion and guiding thinking
 * Graded portions of each exam and final (4 total) for a class size of $\sim 30$ students
-* Created and presented review materials outside of class to $\sim 15$ students before each exam
+* Created and presented review materials outside of class to $\sim 30$ students before each exam
 
