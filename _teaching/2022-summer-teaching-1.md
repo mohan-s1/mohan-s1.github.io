@@ -1,5 +1,6 @@
 ---
 title: "Undergraduate Teaching Assistant (CHEM 2410)"
+date: 2022
 collection: teaching
 type: "Organic Chemistry"
 permalink: /teaching/2022-summer-teaching-1
