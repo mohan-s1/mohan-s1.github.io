@@ -4,6 +4,7 @@ collection: teaching
 type: "Organic Chemistry"
 permalink: /teaching/2022-summer-teaching-1
 venue: "University of Virginia, Department of Chemistry"
+date: 2022-07-01 12:09:42
 location: "Charlottesville, Virginia"
 ---
 # Organic Chemistry Lecture TA
