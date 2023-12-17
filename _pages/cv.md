@@ -69,8 +69,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 5 different slack teams
+Currently, I am trying to ...
+Below are some fleshed out talking points
 * Blueprint Leadership Club, University of Virginia
   * Identified and outlined problems surrounding a lack of academic and interpersonal support at UVA
   * Worked in a group to develop and implement infrastructure for a peer-to-peer advising network
-  * Designed and gave a group presentation to $\sim 80$ audience members summarizing our work and discussing future avenues of improvement 
+  * Designed and gave a group presentation to $\sim 80$ audience members summarizing our work and discussing future avenues of improvement
+* STEM Communication
+  * Graduate students (and one undergrad) work together to identify ways STEM content could be better delivered  
