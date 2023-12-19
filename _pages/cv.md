@@ -13,13 +13,14 @@ Education
 ======
 * B.S. in Chemistry, University of Virginia, 2024 (expected)
 
-Work Experience
+Experience
 ======
 * September, 2022 - Present: Undergraduate Researcher 
   * University of Virginia, Egorov Group
   * Duties included:
-    * Words
-    * More 
+    * Developed code to simulate quantum mechanical systems and implementing flux-side and flux-flux (auto)correlation functions
+    * Explored novel inter-molecular potential via industry standard software, *Large-scale Atomic/Molecular Massively Parallel Simulator* (LAMMPS)
+    * Actively collaborate with several different research groups in Europe
   * Supervisor: Dr. Sergei Egorov
   * [Fall 2023 Research Recap](http://mohan-s1.github.io/files/fall_2023_recap.pdf)
 
