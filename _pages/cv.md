@@ -17,7 +17,6 @@ Experience
 ======
 * September, 2022 - Present: Undergraduate Researcher 
   * University of Virginia, Egorov Group
-  * Duties included:
     * Developed code to simulate quantum mechanical systems and implementing flux-side and flux-flux (auto)correlation functions
     * Explored novel inter-molecular potential via industry standard software, *Large-scale Atomic/Molecular Massively Parallel Simulator* (LAMMPS)
     * Actively collaborate with several different research groups in Europe
