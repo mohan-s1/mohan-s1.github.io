@@ -21,7 +21,7 @@ Work Experience
     * Words
     * More 
   * Supervisor: Dr. Sergei Egorov
-  * [Fall 2023 Research Recap]((http://mohan-s1.github.io/files/fall_2023_recap.pdf)
+  * [Fall 2023 Research Recap](http://mohan-s1.github.io/files/fall_2023_recap.pdf)
 
 Skills
 ======
