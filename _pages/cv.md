@@ -20,7 +20,7 @@ Experience
     * Developed code to simulate quantum mechanical systems and implementing flux-side and flux-flux (auto)correlation functions
     * Explored novel inter-molecular potential via industry standard software, *Large-scale Atomic/Molecular Massively Parallel Simulator* (LAMMPS)
     * Actively collaborate with several different research groups in Europe
-  * Supervisor:[Dr. Sergei Egorov](https://chemistry.as.virginia.edu/people/profile/sae6z)
+  * Supervisor: [Dr. Sergei Egorov](https://chemistry.as.virginia.edu/people/profile/sae6z)
   * [Fall 2023 Research Recap](http://mohan-s1.github.io/files/fall_2023_recap.pdf)
 
 Skills
