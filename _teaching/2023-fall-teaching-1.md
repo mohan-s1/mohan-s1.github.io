@@ -11,7 +11,7 @@ location: "Charlottesville, Virginia"
 * Facilitated content comprehension by holding office hours and writing code to visualize topics
 * Created review material to present content in alternative manners
 
-[General Math for QM](http://mohan-s1.github.io/teaching/general_math.pdf)
+[Introductory Math for QM](http://mohan-s1.github.io/teaching/general_math.pdf)
 
 [Raising and Lowering Operators for Harmonic Oscillator](http://mohan-s1.github.io/teaching/raising_lowering.pdf)
 
