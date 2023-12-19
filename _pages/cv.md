@@ -58,11 +58,13 @@ Teaching
   
 Service and Leadership
 ======
-Currently, I am trying to ...
-Below are some fleshed out talking points
+Currently, I am trying to create an analog of *STEM Communication*, an organization I'm part of mentioned below, for undergraduates. Building off of the work that began with *Blueprint* (also mentioned below), I hope to assemble a group of students interested in STEM in order to help others by finding research, improving communication abilities in "formal" settings, and giving general, collegiate advice. This idea stems from conversations with out-of-state students who felt alienated when first starting at UVa and quickly developed upon my joining of STEM Comm. As I continued to progress in my own scientific journey, I increasingly found myself attending seminars or having to communicate my own ideas and work— skills that are rarely cultivated within UVa's own curriculum and perhaps even curricula. Tracing back to the start of my college career, I was lucky to have an advisor who was a Chemist prior to declaring my major. Not everyone is so lucky. As such, I hope this organization can meld "advising" in a loose sense with the development of practical skills, creating more capable members of STEM.
+
+Below are some formally laid-out points:
 * Blueprint Leadership Club, University of Virginia
   * Identified and outlined problems surrounding a lack of academic and interpersonal support at UVA
   * Worked in a group to develop and implement infrastructure for a peer-to-peer advising network
   * Designed and gave a group presentation to $\sim 80$ audience members summarizing our work and discussing future avenues of improvement
 * STEM Communication
-  * Graduate students (and one undergrad) work together to identify ways STEM content could be better delivered  
+  * Graduate students (and myself) work together to identify ways STEM content could be better delivered for a general audience
+  * Members give weekly presentations that are critiqued to flesh out better modes of relaying information 
