@@ -15,33 +15,20 @@ Education
 
 Work experience
 ======
-* Fall 2023: Physical Chemistry I: Quantum Mechanics TA
-  * University of Virginia
-  * Duties included:
-    * Words
-  * Supervisor: Dr. Sergei Egorov
-
 * Summer 2023 - Present: Undergraduate Researcher 
   * University of Virginia, Egorov Group
   * Duties included:
     * Words
     * More 
   * Supervisor: Dr. Sergei Egorov
-
-* Summer 2022: Organic Chemistry TA
-  * University of Virginia
-  * Duties included: 
-    * Aiding in real-time instruction by prompting discussion and guiding thinking
-    * Graded portions of each exam and final (4 total) for a class size of $\sim 30$ students
-    * Creating and presenting review materials outside of class to $\sim 15$ students before each exam
-  * Supervisor: Dr. Alicia Frantz
-  
 Skills
 ======
 * Programming Languages
   * Python (Intermediate)
   * MATLAB (Intermediate)
-  * C ++ (Beginner)   
+  * C ++ (Beginner)
+  * R (Beginner)
+  * Julia (Beginner)
 * Software Proficiency 
   * Microsoft Office Suite (Advanced)
   * LaTeX (Advanced)
@@ -67,7 +54,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 Currently, I am trying to ...
 Below are some fleshed out talking points
