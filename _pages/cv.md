@@ -21,6 +21,7 @@ Work Experience
     * Words
     * More 
   * Supervisor: Dr. Sergei Egorov
+
 Skills
 ======
 * Programming Languages
