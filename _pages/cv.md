@@ -15,7 +15,7 @@ Education
 
 Work Experience
 ======
-* Summer 2023 - Present: Undergraduate Researcher 
+* September, 2022 - Present: Undergraduate Researcher 
   * University of Virginia, Egorov Group
   * Duties included:
     * Words
