@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Chemistry, University of Virginia, 2024 (expected)
 
-Work experience
+Work Experience
 ======
 * Summer 2023 - Present: Undergraduate Researcher 
   * University of Virginia, Egorov Group
