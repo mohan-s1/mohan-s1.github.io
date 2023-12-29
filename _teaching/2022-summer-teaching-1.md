@@ -12,3 +12,4 @@ location: "Charlottesville, Virginia"
 * Graded portions of each exam and final (4 total) for a class size of $\sim 30$ students
 * Created and presented review materials outside of class to $\sim 30$ students before each exam
 
+[Exam 3 Review Content](http://mohan-s1.github.io/teaching/Orgo_Exam_3_Summary.pdf)
