@@ -62,6 +62,8 @@ Currently, I am trying to create an analog of *STEM Communication*, an organizat
 
 Tracing back to the start of my college career, I was lucky to have an advisor who was a Chemist prior to declaring my major. Not everyone is so lucky. Consequently, I imagine the organization could create a website to share vetted opinions and perhaps even resources to help their fellow students succeed in courses. As such, I hope this organization can meld "advising" in a loose sense with the development of practical skills, creating more capable members in the fields of STEM.
 
+A link to the site for the organization, tentatively titled **STEM for Virginia**, can be found [here.](https://stemforvirginia.github.io/)
+
 Below are some formally laid-out points:
 * Blueprint Leadership Club, University of Virginia
   * Identified and outlined problems surrounding a lack of academic and interpersonal support at UVA
