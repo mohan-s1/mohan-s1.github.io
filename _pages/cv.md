@@ -33,7 +33,7 @@ Skills
   * Julia (Beginner)
 * Software Proficiency 
   * Microsoft Office Suite (Advanced)
-  * $\Latex$ (Advanced)
+  * $\LaTeX$ (Advanced)
   * Git (Intermediate)
   * ChemDraw (Intermediate)
 * Languages 
