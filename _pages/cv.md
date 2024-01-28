@@ -18,7 +18,7 @@ Experience
 * September, 2022 - Present: Undergraduate Researcher 
   * University of Virginia, Egorov Group
     * Developed Python code to simulate quantum mechanical systems, implementing flux-side and flux-flux (auto)correlation functions
-    * Explored novel inter-molecular potential via industry standard software, *Large-scale Atomic/Molecular Massively Parallel Simulator* (LAMMPS) and UVa's High-Performance Computing System, *Rivanna*
+    * Explored novel inter-molecular potential via industry standard software, *Large-scale Atomic/Molecular Massively Parallel Simulator* (LAMMPS) while using the University of Virginia's High-Performance Computing System, *Rivanna*
     * Actively collaborate with several different research groups in Europe
   * Supervisor: [Dr. Sergei Egorov](https://chemistry.as.virginia.edu/people/profile/sae6z)
   * [Fall 2023 Research Recap](http://mohan-s1.github.io/files/fall_2023_recap.pdf)
