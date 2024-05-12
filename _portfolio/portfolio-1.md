@@ -13,4 +13,4 @@ For ChE 4220, Data Science in Chemical Engineering, we were tasked with a final 
 
 ## General Description 
 
-For many scientists, the Ising Model presents a comprehensible chemical and physical introduction to a system in which one can explore the effects of inter-particle interactions causing correlations between the particles. In particular, this model considers N spins, $s_{\pm 1}$, arranged on a lattice. Additionally, the effects of an external magnetic field, H, and coupling constant J are considered. Broadly speaking, it is one of few analytically solvable models and offers tremendous insight into phase transition behavior in the field of statistical mechanics.
+The GEM-n potential is defined as $ \begin{equation}  \phi (r) = \varepsilon e^{- \left( \frac{r}{\sigma} \right)^n} \end{equation}$
