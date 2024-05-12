@@ -1,6 +1,6 @@
 ---
 title: "Predicting Aggregation Properties in a Self-Assembling System"
-excerpt: "For ChE 4220, Data Science in Chemical Engineering, we were tasked with a final project using the techniques we covered in the class to explore a dataset of our choice."
+excerpt: "For ChE 4220, Data Science in Chemical Engineering, we were tasked with a final project using the techniques we covered in the class to explore a dataset of our choice." <img src="https://github.com/mohan-s1/lammps_work/blob/c8c1174b86ee4c44759bd8e5f8567bdc88fd89ec/cluster.png" alt="Cluster"> 
 collection: portfolio
 ---
 
