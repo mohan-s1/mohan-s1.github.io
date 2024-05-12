@@ -13,4 +13,4 @@ For ChE 4220, Data Science in Chemical Engineering, we were tasked with a final 
 
 ## General Description 
 
-The GEM-n potential is defined as $$ \begin{equation}  \phi (r) = \varepsilon e^{- \left( \frac{r}{\sigma} \right)^n} \end{equation} $$
+The GEM-n potential is defined as $$\begin{equation}  \phi (r) = \varepsilon e^{- \left( \frac{r}{\sigma} \right)^n} \end{equation}$$
